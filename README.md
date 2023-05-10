@@ -15,5 +15,5 @@
 * CSS
 
 ## Screenshots
-![Screenshot da tela inicial do AluraPlay](https://imgur.com/a/88zbEAb.png)
+![Screenshot da tela inicial do AluraPlay](https://imgur.com/88zbEAb.png)
 ![Screenshot da tela do formulário do AluraPlay](https://imgur.com/ShNADf2.png)
